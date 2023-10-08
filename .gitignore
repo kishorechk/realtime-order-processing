@@ -1,0 +1,3 @@
+/services/order_service/.pytest_cache/
+/services/inventory_service/.pytest_cache/
+.idea
